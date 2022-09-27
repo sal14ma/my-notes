@@ -1,6 +1,6 @@
 # my-notes
 ## About me ##
-I'm software engineering ,graduated from al Hussein ben talal university, im so intrested in programing and computer 
+I'm software engineering ,graduated from al Hussein ben talal university, im so intrested in progaming and computer 
 in 
 general      
 
